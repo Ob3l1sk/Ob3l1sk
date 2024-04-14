@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ob3l1sk
-- 👀 I’m interested in Software Engineering, Matters of How Video Games Work Fundamentally
+- 👀 I’m interested in Software Engineering, Cyber-Risk Management, and Video Games!
 - 🌱 I’m currently learning Data Structures, Python
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me dhammon004@drury.edu
