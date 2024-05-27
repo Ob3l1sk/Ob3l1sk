@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ob3l1sk
+- 👋 Hi, I’m @Ob3l1sk, Далтон М. Хэмман
 - 👀 I’m interested in Software Engineering, Cyber-Risk Management, and Video Games!
 - 🌱 I’m currently learning Data Structures, Python
 - 💞️ I’m looking to collaborate on Anything
